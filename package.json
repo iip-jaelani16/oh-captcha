@@ -2,6 +2,17 @@
   "name": "oh-captcha",
   "version": "0.1.0",
   "private": true,
+  "main": "src/index.tsx",
+  "keywords": [
+    "react",
+    "oh-captcha",
+    "captcha",
+    "react-captcha",
+    "react-simple-captcha",
+    "component",
+    "npm"
+  ],
+  "author": "Jangot16",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
